@@ -1,0 +1,9 @@
+streamlit
+opencv-python
+tensorflow
+keras
+keras-facenet
+pillow
+numpy
+pandas
+scipy>=1.10.1

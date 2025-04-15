@@ -1,0 +1,6 @@
+# Virtual environment
+venv/
+
+# Database and Dataset folder
+database/
+dataset/
