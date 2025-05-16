@@ -1,4 +1,3 @@
-# app.py
 import streamlit as st
 from register import register_user
 from detect import mark_attendance
